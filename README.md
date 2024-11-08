@@ -39,7 +39,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 ### Answers
 <!-- https://github.com/Powerlearnproject/se-day1-assignment-Machuge27?tab=readme-ov-file -->
 
-**Part 1:** 
+#Part 1:
 ## Introduction to Software Engineering
 
 1. **Explain what software engineering is and discuss its importance in the technology industry.**
@@ -118,7 +118,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
       - Conducted to determine whether the system meets business requirements and is acceptable for delivery.
       - **Importance:** Involves stakeholders to confirm that the software fulfills their needs before it goes live, thus ensuring customer satisfaction.
 
-**Part 2:** 
+Part 2:
 ## Introduction to AI and Prompt Engineering
 
 1. **Define prompt engineering and discuss its importance in interacting with AI models.**
