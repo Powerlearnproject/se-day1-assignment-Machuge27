@@ -1,3 +1,8 @@
+- name: Install which
+    run: sudo apt-get install -y which
+- name: Run tests
+    run: ./your-test-script.sh
+    
 name: Autograding Tests
 'on':
 - push
