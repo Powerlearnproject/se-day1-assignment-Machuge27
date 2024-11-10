@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is a systematic discipline that encompasses the design, development, testing, and maintenance of software applications. It applies engineering principles and methodologies to create software that is reliable, efficient, scalable, and meets user needs. In the technology industry, software engineering is crucial as it ensures software is created to meet user needs, is maintainable, and can adapt to evolving technologies and user demands.
+<mark>Software engineering is a systematic discipline that encompasses the design, development, testing, and maintenance of software applications. It applies engineering principles and methodologies to create software that is reliable, efficient, scalable, and meets user needs. In the technology industry, software engineering is crucial as it ensures software is created to meet user needs, is maintainable, and can adapt to evolving technologies and user demands.
 
 Importance of S/E to the industry:
 Quality Assurance: Software engineering ensures that products are reliable and meet user expectations. This reduces the risk of failures in critical applications, such as healthcare systems or financial services.
@@ -20,7 +20,7 @@ Innovation Facilitation: Software engineers drive innovation by developing new a
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-The Invention of Structured Programming (1960s-70s): Introduced concepts like modularity and code blocks, improving readability and maintainability.
+<mark>The Invention of Structured Programming (1960s-70s): Introduced concepts like modularity and code blocks, improving readability and maintainability.
 The Emergence of Object-Oriented Programming (1980s): Encouraged modular, reusable code with encapsulation, inheritance, and polymorphism, leading to easier software updates.
 Agile Manifesto and Agile Development (2001):*Shifted focus to flexibility and collaboration, enabling faster response to changes and iterative delivery.
 
@@ -36,7 +36,7 @@ Maintenance: Update and fix issues as they arise post-deployment.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
-Agile Methodology
+<mark>Agile Methodology
 Agile is an iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback. It allows for ongoing adjustments throughout the development process.
 Agile welcomes changes even late in the development cycle, making it suitable for projects with evolving requirements.
 
@@ -54,7 +54,7 @@ Appropriate for industries with strict regulatory compliance needs where detaile
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-Software Developer: Designs, codes, and implements software based on requirements.
+<mark>Software Developer: Designs, codes, and implements software based on requirements.
 Quality Assurance (QA) Engineer: Tests the software to ensure functionality and usability, helps identify defects and ensure development standards are met.
 Project Manager: Coordinates the project, ensuring milestones are met and the project stays within budget and timeline.
 
@@ -67,7 +67,7 @@ Version Control Systems: Allow teams to track and manage changes, collaborate ef
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-Managing complex requirements.
+<mark>Managing complex requirements.
    Strategy: Break down requirements, use clear documentation, and adopt Agile practices.
 Debugging and fixing bugs.
    Strategy: Use systematic debugging techniques and tools, like logging and testing frameworks.
@@ -76,16 +76,16 @@ Staying up-to-date with new technologies.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-Unit Testing:
+<mark>Unit Testing:
       - Tests individual components or functions of the software in isolation.
       - **Importance:** Helps identify bugs early in the development process, ensuring that each unit performs as expected before integration.
-Integration Testing:
+<mark>Integration Testing:
       - Tests the interactions between integrated components or systems.
       - **Importance:** Ensures that combined parts of the application work together correctly, identifying interface defects between modules.
-System Testing:
+<mark>System Testing:
       - Tests the complete and integrated software system as a whole to verify that it meets specified requirements.
       - **Importance:** Validates the end-to-end functionality of the application in an environment that simulates real-world usage.
-Acceptance Testing:
+<mark>Acceptance Testing:
       - Conducted to determine whether the system meets business requirements and is acceptable for delivery.
       - **Importance:** Involves stakeholders to confirm that the software fulfills their needs before it goes live, thus ensuring customer satisfaction.
 
@@ -94,13 +94,13 @@ Acceptance Testing:
 
 1. **Define prompt engineering and discuss its importance in interacting with AI models.**
    
-   Prompt engineering is the process of creating effective and precise inputs (prompts) for AI models to generate accurate responses. 
+   <mark>Prompt engineering is the process of creating effective and precise inputs (prompts) for AI models to generate accurate responses. 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+<mark>Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt
 
